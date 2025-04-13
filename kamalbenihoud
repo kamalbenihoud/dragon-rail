@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Dragon Rail - Infrastructure ferroviaire militaire souveraine pour la Défense française. Accès par ADN, innovations stratégiques, sécurité totale." />
+  <title>Dragon Rail | Souveraineté Ferroviaire</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background-color: #0a0a0a;
+      color: #e6e6e6;
+    }
+    header, footer {
+      background-color: #1a1a1a;
+      text-align: center;
+      padding: 1.5rem;
+    }
+    h1, h2 {
+      color: #ffcc00;
+    }
+    .container {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    section {
+      margin-bottom: 3rem;
+    }
+    a.button {
+      display: inline-block;
+      background-color: #ffcc00;
+      color: #000;
+      padding: 1rem 2rem;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+      margin-top: 1rem;
+    }
+
+    /* Animation */
+    .fade-in {
+      opacity: 0;
+      animation: fadeIn 2s ease-in-out forwards;
+    }
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+      }
+    }
+    .fade-in-delayed {
+      animation-delay: 1s;
+    }
+  </style>
+</head>
+<body>
+  <header class="fade-in">
+    <h1>🐉 Dragon Rail</h1>
+    <p>La souveraineté ferroviaire de demain, aujourd’hui.</p>
+  </header>
+
+  <div class="container fade-in fade-in-delayed">
+    <section>
+      <h2>🚆 Une infrastructure exclusive au service de la Défense</h2>
+      <p>
+        Dragon Rail est un réseau ferroviaire militaire de nouvelle génération réservé aux forces armées françaises et à certains partenaires validés. L’objectif : garantir une mobilité stratégique souveraine, totalement maîtrisée.
+      </p>
+    </section>
+
+    <section>
+      <h2>🛡️ Accès ultra-sécurisé par ADN</h2>
+      <p>
+        L’accès à Dragon Rail repose sur une authentification génétique inédite, avec un protocole distribué entre plusieurs bases ultra-sécurisées. Le fondateur, Kamal Benihoud, détient l’autorisation finale pour tout accès.
+      </p>
+    </section>
+
+    <section>
+      <h2>🚀 Une plateforme mobile d’innovation stratégique</h2>
+      <p>
+        Dragon Rail embarque les technologies les plus avancées : boucliers magnétiques, cabines autonomes, IA prédictive, communication quantique. Chaque module peut devenir un centre de commandement, un laboratoire ou une base médicale mobile.
+      </p>
+    </section>
+
+    <section>
+      <h2>🌍 Une ouverture contrôlée à l’international</h2>
+      <p>
+        Toute collaboration internationale passe par un processus rigoureux de validation. Aucun accès n’est autorisé sans l’approbation directe du fondateur.
+      </p>
+    </section>
+
+    <section>
+      <h2>🔮 Vision à long terme</h2>
+      <p>
+        Dragon Rail se positionne comme pilier de la mobilité militaire française, tout en posant les fondations d’un futur réseau civil ultra-sécurisé. Une infrastructure de souveraineté tournée vers l’avenir.
+      </p>
+    </section>
+
+    <section>
+      <h2>✉️ Rejoindre le cercle restreint</h2>
+      <p>
+        Vous êtes une institution stratégique, un gouvernement ou un partenaire technologique ? Soumettez votre protocole d’entrée génétique à l’étude.
+      </p>
+      <a href="#" class="button">🔒 Faire une demande d’accès</a>
+    </section>
+  </div>
+
+  <footer class="fade-in fade-in-delayed">
+    <p><em>« Le futur s’écrit sur des rails souverains. » – Kamal Benihoud</em></p>
+  </footer>
+</body>
+</html>
